@@ -611,4 +611,3 @@ When the keyboard is dirty, wipe it with a soft, dry cloth. For stubborn dirt, w
 
 ---
 
-*© PFU Limited 2023–2024. Happy Hacking Keyboard is a trademark of PFU Limited. Microsoft and Windows are trademarks of the Microsoft group of companies. macOS, iPadOS, and visionOS are trademarks of Apple Inc. The Bluetooth® word mark and logos are registered trademarks of Bluetooth SIG, Inc. Android is a trademark of Google LLC.*
